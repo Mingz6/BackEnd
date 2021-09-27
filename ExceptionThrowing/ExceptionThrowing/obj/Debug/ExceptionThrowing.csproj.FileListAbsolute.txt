@@ -1,0 +1,7 @@
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\bin\Debug\ExceptionThrowing.exe.config
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\bin\Debug\ExceptionThrowing.exe
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\bin\Debug\ExceptionThrowing.pdb
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\obj\Debug\ExceptionThrowing.csproj.AssemblyReference.cache
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\obj\Debug\ExceptionThrowing.csproj.CoreCompileInputs.cache
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\obj\Debug\ExceptionThrowing.exe
+P:\BackEnd\ExceptionThrowing\ExceptionThrowing\obj\Debug\ExceptionThrowing.pdb
