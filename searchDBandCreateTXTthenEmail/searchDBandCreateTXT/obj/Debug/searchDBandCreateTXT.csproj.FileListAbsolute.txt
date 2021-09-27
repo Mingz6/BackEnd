@@ -1,0 +1,11 @@
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.exe.config
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.exe
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.pdb
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.csproj.AssemblyReference.cache
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.csproj.CoreCompileInputs.cache
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.exe
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.pdb
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\NLog.config
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\NLog.dll
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\bin\Debug\NLog.xml
+P:\CGI_Projects\PRISM\CSharp\searchDBandCreateTXT\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.csproj.CopyComplete

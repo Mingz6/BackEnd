@@ -1,0 +1,11 @@
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\NLog.config
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.exe.config
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.exe
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\searchDBandCreateTXT.pdb
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\NLog.dll
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\bin\Debug\NLog.xml
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXTthenEmail.csproj.CoreCompileInputs.cache
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXTthenEmail.csproj.CopyComplete
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.exe
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXT.pdb
+P:\BackEnd\searchDBandCreateTXTthenEmail\searchDBandCreateTXT\obj\Debug\searchDBandCreateTXTthenEmail.csproj.AssemblyReference.cache
