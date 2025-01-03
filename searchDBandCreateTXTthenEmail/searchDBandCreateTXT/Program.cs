@@ -31,7 +31,6 @@ namespace searchDBandCreateTXT
             logger.Info("job completed.");
         }
 
- 
         public static void writeFileFromDB(string dbConn, string dbFile)
         {
             SqlCommand comm = new SqlCommand();
